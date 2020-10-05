@@ -3,5 +3,6 @@ A prototype video game was created focused on raising awareness of current and f
 In addition, there is a pleasant interface in which the player's ship and the planets of the solar system are shown to scale, with textures and information taken from the NASA database, thus emulating a journey through the universe captivating and educating the user. 
 
 Decompress folder : TheWormHole-Play>Juego_Reto_Data
+
 the game is located at :Follow The WormHole-Play>Juego_Reto_Data.exe
 
