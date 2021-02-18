@@ -6,4 +6,4 @@ Decompress folder : TheWormHole-Play>Juego_Reto_Data
 
 the game is located at :Follow The WormHole-Play>Juego_Reto_Data.exe
 
-Creators : Richard,Mabel,Cristian,Camilo,Yensi,Victor
+Creators : Richard,Victor
